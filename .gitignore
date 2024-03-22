@@ -1,0 +1,27 @@
+build
+# balance/
+# sample_l/
+# samles_4_paper/
+# samles_update/
+build.txt
+.vscode/
+.env
+scalehls/
+**/tmp
+**/cpp_src
+**/mlir_src
+**/hls_proj
+**/dump_csv
+**/.ipynb_checkpoints
+**/__pycache__
+
+*.onnx*
+*.tmp
+*.gv
+*.png
+*.log
+*.csv
+*.zip
+*.swp
+*.swo
+*.swn
